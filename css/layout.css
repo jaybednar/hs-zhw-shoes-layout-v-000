@@ -31,17 +31,15 @@
 
 .two-thirds {
   float: left;
-  width: 66%;
+  width: 64%;
 }
 
 .one-third {
   float: left;
-  width: 32%;
+  width: 31%;
 }
 
-section {
-  margin: 1%;
-}
+[class*="-third"]
 
 * {
   box-sizing: border-box;
