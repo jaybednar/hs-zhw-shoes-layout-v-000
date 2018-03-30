@@ -40,7 +40,7 @@
 }
 
 [class*="-third"] {
-  max-resolution: 2%;
+  margin-left: 2%;
 }
 
 * {
