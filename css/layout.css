@@ -41,7 +41,7 @@
 }
 
 [class*="-third"] {
-  margin-left: 2%;
+  margin: 2%;
 }
 .first {
   margin-left: 0;
