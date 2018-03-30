@@ -32,12 +32,12 @@
 
 .two-thirds {
   float: left;
-  width: 64%;
+  width: 66%;
 }
 
 .one-third {
   float: left;
-  width: 31%;
+  width: 32%;
 }
 
 [class*="-third"] {
