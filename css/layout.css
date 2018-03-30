@@ -39,7 +39,9 @@
   width: 31%;
 }
 
-[class*="-third"]
+[class*="-third"] {
+  max-resolution: 2%;
+}
 
 * {
   box-sizing: border-box;
